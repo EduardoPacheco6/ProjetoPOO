@@ -1,0 +1,16 @@
+/.classpath
+/.project
+/.settings/
+/DER BD.drawio
+/DER BD.png
+/UML.drawio
+/UML.png
+/classes/
+/conexao/
+/contantes/
+/dadosConexao/
+/dao/
+/dml/
+/lista/
+/postgresql-42.3.4.jar
+/principal/
